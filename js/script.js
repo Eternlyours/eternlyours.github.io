@@ -5,7 +5,7 @@
 function show ()
 {
    
-    var elem = document.getElementById(inv)
+    var elem = document.getElementById()
     if (elem)
         elem.style.display="block";      
 }

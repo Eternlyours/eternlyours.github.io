@@ -1,4 +1,4 @@
 ﻿window.onload = function(){
-document.querySelector('.burger_logo').onclick = function(){
-    document.querySelector('.span_2').classList.toggle('span_2-active');
+document.querySelector('.item_burger').onclick = function(){
+    document.querySelector('.burger_line').classList.toggle('burger_line-active');
 }};
